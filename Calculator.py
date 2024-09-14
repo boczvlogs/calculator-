@@ -42,30 +42,6 @@ while True:
             break
     else:
         print("Invalid Input")
-AI-generated code. Review and use carefully. More info on FAQ.
-You can copy and paste this code into a Python environment to run it. It will prompt you to select an operation and input two numbers, then it will display the result. If you have any questions or need further modifications, feel free to ask!
-
-Learn more
-
-1
-github.com
-2
-github.com
-3
-github.com
-
-
-
-
-
-You
-Sent by you:
-Can you add a square root function?
-Copilot
-Sent by Copilot:
-Absolutely! Here’s the updated Python calculator code with a square root function added:
-
-Python
 
 import math
 
